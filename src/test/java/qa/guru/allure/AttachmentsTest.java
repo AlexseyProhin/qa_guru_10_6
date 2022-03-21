@@ -1,5 +1,5 @@
 package qa.guru.allure;
-
+//комментарий для ДЗ
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.WebDriverRunner;
 import io.qameta.allure.Allure;
